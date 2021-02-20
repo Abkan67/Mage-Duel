@@ -1,0 +1,26 @@
+html {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+#canvas {
+  position: absolute;
+  width: 300px;
+  height: 150px;
+  margin: 0px;
+  padding: 0px;
+}
+#health {
+  position: absolute;
+  right: 80px;
+  top: 20px;
+  color: black;
+  height: 20px;
+  width: 80px;
+}
+#lvl {
+  
+}
